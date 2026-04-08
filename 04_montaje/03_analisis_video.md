@@ -1,6 +1,6 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno:ngngfngf
 ## 🖥️ Equipo:
 
 ---
