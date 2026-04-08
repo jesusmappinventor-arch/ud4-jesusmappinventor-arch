@@ -1,7 +1,7 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno: Jesus Manuel Martin
+## 🖥️ Equipo: Ordenador de clase
 
 ---
 
@@ -24,41 +24,41 @@ Las mejoras deben ser:
 
 # 🟢 MEJORA 1
 
-📌 ¿Qué mejorarías?
+📌 ¿Qué mejorarías? Los componentes del ordenador
 (Describe el cambio que harías)
 
-📌 ¿Por qué?
+📌 ¿Por qué? El ordenador ya es muy antiguo no puede ni con linux
 (Explica el motivo)
 
-📌 ¿Cómo lo harías mejor?
+📌 ¿Cómo lo harías mejor? actualizando los componentes
 (Explica el proceso correcto)
 
-📌 ¿Qué beneficio tiene?
+📌 ¿Qué beneficio tiene? podremos seguir utilizando el ordenador aunque sea con otros componentes para evitar un gasto mayor como comprar un ordenador nuevo y que su rendimiento sea competente con los requisitos actuales
 (Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
 
 ---
 
 # 🟢 MEJORA 2
 
-📌 ¿Qué mejorarías?
+📌 ¿Qué mejorarías? El proceso de limpieza con aire comprimido
 
-📌 ¿Por qué?
+📌 ¿Por qué? Para evitar tener que limpiar con un paño y tambien porque se mejor con un bote de aire comprimido por su potencia y acceso a sitios mas dificiles que con un pañuelo no podriamos limpiar
 
-📌 ¿Cómo lo harías mejor?
+📌 ¿Cómo lo harías mejor? Utilizando un aire comprimido antes de desmontarlo para quitar todo el polvo
 
-📌 Beneficio:
+📌 Beneficio: Nos ahorraremos mucho tiempo y quedaria limpio el ordenador para unas mejores temperaturas y ventilacion
 
 ---
 
 # 🟢 MEJORA 3
 
-📌 ¿Qué mejorarías?
+📌 ¿Qué mejorarías? El pack de herramientas
 
-📌 ¿Por qué?
+📌 ¿Por qué? Porque tener todo por separado podria hacer que se te olviden cosas importantes como la pulsera antiestatica
 
-📌 ¿Cómo lo harías mejor?
+📌 ¿Cómo lo harías mejor? Haciendo un pack donde vendria todo incluido para que no se me olvidara nada (Por ejemplo una caja con los destornilladores, la pulsera, la pasta termita, etc etc)
 
-📌 Beneficio:
+📌 Beneficio: no te olvidarias de cosas importantes
 
 ---
 
