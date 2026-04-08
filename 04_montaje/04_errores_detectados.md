@@ -1,7 +1,7 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno: Jesus Manuel Martin
+## 🖥️ Equipo: Ordenador de clase
 
 ---
 
@@ -22,25 +22,25 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción:
+📌 Descripción: No enciende
 (¿Qué ha ocurrido?)
 
-📌 Tipo:
+📌 Tipo: Real
 (Real / Simulado)
 
-📌 Fase del montaje:
+📌 Fase del montaje: Proceso de encendido
 (Ejemplo: instalación de RAM, cableado, etc.)
 
-📌 Causa:
+📌 Causa: Ram (causa posible)
 (¿Por qué ocurre?)
 
-📌 Consecuencia:
+📌 Consecuencia: No enciende
 (¿Qué problema provoca?)
 
-📌 Solución aplicada o propuesta:
+📌 Solución aplicada o propuesta: Cambiar la ram para ver si ese es el problema
 (¿Cómo se soluciona?)
 
-📌 ¿Cómo prevenirlo?
+📌 ¿Cómo prevenirlo?: pues probar a encenderlo antes de desmontarlo para saber si fue problema tuyo o no funcionaba de antes
 (Qué harías para evitarlo)
 
 📸 Evidencia (si aplica):
@@ -49,19 +49,19 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción: No ponerme la pulsera antiestatica
 
-📌 Tipo:
+📌 Tipo: Real
 
-📌 Fase del montaje:
+📌 Fase del montaje: Preparacion
 
-📌 Causa:
+📌 Causa: Se me olvido
 
-📌 Consecuencia:
+📌 Consecuencia: Se puede dañar algun componente
 
-📌 Solución:
+📌 Solución: Ponerme la pulsera
 
-📌 Prevención:
+📌 Prevención: Ponerme la pulsera
 
 📸 Evidencia:
 
