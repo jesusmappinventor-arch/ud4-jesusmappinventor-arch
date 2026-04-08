@@ -1,7 +1,7 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno: Jesus Manuel Martin
+## 🖥️ Equipo: Ordenador de clase
 
 ---
 
@@ -13,7 +13,7 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🎬 VÍDEO ANALIZADO
 
-📌 Enlace al vídeo:
+📌 Enlace al vídeo: https://youtu.be/qG19ezBnLbI?feature=shared
 
 ---
 
