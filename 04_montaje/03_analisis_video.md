@@ -49,12 +49,12 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 📌 ¿Se realiza correctamente? Si
 
-📌 Problemas observados: N
+📌 Problemas observados: Ninguno
 
-📌 Riesgos detectados:
+📌 Riesgos detectados: Al intentar atornillar la placa base pincha por debajo
 (Ejemplo: mala colocación, presión incorrecta, etc.)
 
-📌 Valoración técnica:
+📌 Valoración técnica: Todo bien puesto con cuidado
 
 ---
 
