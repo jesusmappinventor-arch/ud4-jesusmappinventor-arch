@@ -1,7 +1,7 @@
 # ✅ BUENAS PRÁCTICAS EN EL MONTAJE DE EQUIPOS
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno: Jesus Manuel Martin
+## 🖥️ Equipo: Ordenador de clase
 
 ---
 
@@ -19,9 +19,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
-- 
-- 
+- Trabajar con el equipo desconectado de la corriente
+- Evitar tocar los circuitos o contactos de los componentes directamente
+- utilizar la pulsera anti estatica para evitar dañar componentes
 
 💡 Ejemplo: descargar electricidad estática antes de manipular componentes
 
@@ -29,9 +29,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
-- 
-- 
+- Utilizar destornilladores adecuados (normalmente de estrella) para no dañar los tornillos
+- No usar herramientas en mal estado o oxidadas
+- Tener todas las herramientas preparadas antes de empezar el montaje
 
 💡 Ejemplo: usar herramientas adecuadas para no dañar los componentes
 
@@ -39,9 +39,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
-- 
+- Asegurarte que los componentes son compatibles
+- Seguir un orden correcto de montaje
+- Consultar los manuales cuando sea necesario
 
 💡 Ejemplo: no forzar los componentes al instalarlos
 
@@ -49,9 +49,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
-- 
+- Conectar cada cable en su lugar correspondiente
+- Asegurar bien las conexiones
+- No forzar en caso de que no quepa el cable
 
 💡 Ejemplo: comprobar todas las conexiones antes de encender
 
@@ -59,9 +59,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
-- 
+- Asegurar una buena circulación del aire
+- Colocar correctamente los ventiladores
+- Utilizar pasta termica
 
 💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
 
@@ -69,9 +69,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
-- 
-- 
+- Comprobar que no falta ninguna conexión
+- Comprobar que esta todo bien atornillado
+- Realizar una prueba de encendido inicial
 
 💡 Ejemplo: revisar que todo está bien conectado antes del primer arranque
 
@@ -79,9 +79,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
-- 
-- 
+- Manipular los componentes con cuidado
+- Trabajar con calma y atención
+- Mantener el espacio de trabajo limpio y ordenado
 
 💡 Ejemplo: trabajar con orden, limpieza y cuidado del material
 
@@ -90,8 +90,8 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Por qué es importante seguir buenas prácticas en el montaje?
-
+Para evitar daños tanto al pc como al que monta 
 - ¿Qué puede pasar si no se siguen?
-
+Pueden producirse fallos en el equipo, daños en los componentes o riesgos durante el montaje
 - ¿Cuál crees que es la práctica más importante? ¿Por qué?
-
+La seguridad, porque protege de accidentes tanto al pc como al que monta el pc
