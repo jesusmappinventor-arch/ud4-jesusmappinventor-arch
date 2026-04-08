@@ -43,11 +43,11 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 (CPU, RAM, placa base)
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 9:50
 
-📌 ¿Qué se hace?
+📌 ¿Qué se hace? Instalacion de la cpu, ram, disipador, ensamblado de la placa base al gabinete, instalacion de los dvd y disco floppy.
 
-📌 ¿Se realiza correctamente?
+📌 ¿Se realiza correctamente? 
 
 📌 Problemas observados:
 
