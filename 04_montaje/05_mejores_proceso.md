@@ -58,15 +58,16 @@ Las mejoras deben ser:
 
 📌 ¿Cómo lo harías mejor? Haciendo un pack donde vendria todo incluido para que no se me olvidara nada (Por ejemplo una caja con los destornilladores, la pulsera, la pasta termita, etc etc)
 
-📌 Beneficio: no te olvidarias de cosas importantes
+📌 Beneficio: no te olvidarias de cosas importantes como los destornilladores, pasta termica, etc etc.
 
 ---
 
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Crees que montar un equipo requiere experiencia? ¿Por qué?
-
+No, es muy facil romper algo y dañar los componentes por una tonteria, hasta los expertos fallan imagina los que no saben
 - ¿Qué harías diferente si tuvieras que montar otro equipo desde cero?
-
+Que fuera mas facil el ordenar cables da mucha pereza ordenarlos
 - ¿Te ves capaz de montar un equipo tú solo/a? Justifica tu respuesta.
+Si, se me da bien y si no fuera que no enciende el ordenador me hubiera hecho un perfect
 
