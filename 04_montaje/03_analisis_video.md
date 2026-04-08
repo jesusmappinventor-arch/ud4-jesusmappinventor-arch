@@ -47,9 +47,9 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 📌 ¿Qué se hace? Instalacion de la cpu, ram, disipador, ensamblado de la placa base al gabinete, instalacion de los dvd y disco floppy.
 
-📌 ¿Se realiza correctamente? 
+📌 ¿Se realiza correctamente? Si
 
-📌 Problemas observados:
+📌 Problemas observados: N
 
 📌 Riesgos detectados:
 (Ejemplo: mala colocación, presión incorrecta, etc.)
@@ -60,32 +60,30 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🧩 Fase 3: Instalación de almacenamiento
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 19:55
 
-📌 ¿Qué se hace?
+📌 ¿Qué se hace? Instalacion del disco duro
 
-📌 ¿Se realiza correctamente?
+📌 ¿Se realiza correctamente? Si
 
-📌 Observaciones:
+📌 Observaciones: El soporte izquierdo del disco duro se sale con mucha facilidad
 
-📌 Valoración técnica:
+📌 Valoración técnica: Bien encajado y atornillado tanto como el disco como el soporte
 
 ---
 
 ## 🧩 Fase 4: Cableado
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 20:50
 
-📌 ¿Qué se hace?
+📌 ¿Qué se hace? Cableado de las conexiones IDE, de alimentacion, panel frontal 
 
-📌 ¿Se realiza correctamente?
+📌 ¿Se realiza correctamente? Si
 
 📌 Problemas detectados:
-- Cables mal conectados
-- Desorden
-- Riesgo de mala ventilación
+- Cables mal conectados: creo que los del panel frontal
 
-📌 Valoración técnica:
+📌 Valoración técnica: Bien cableado
 
 ---
 
