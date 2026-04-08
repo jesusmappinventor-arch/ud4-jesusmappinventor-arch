@@ -69,28 +69,32 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: No limpiarle el polvo al montarlo de nuevo
 
-📌 Tipo:
+📌 Tipo: Real
 
-📌 Fase del montaje:
+📌 Fase del montaje: Desmontado
 
-📌 Causa:
+📌 Causa: No lo limpie
 
-📌 Consecuencia:
+📌 Consecuencia: Mala ventilacion y altas temperaturas
 
-📌 Solución:
+📌 Solución: Limpiarlo una vez este todo desmontado
 
-📌 Prevención:
+📌 Prevención: Limpiarlo cada 6 meses o 1 año
 
 📸 Evidencia:
+<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/95094003-12d0-47c8-a0a7-7c00a3a421a1" />
+
+
 
 ---
 
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
-
+El de que no enciende porque si no enciende no puedes utilizar el ordenador, haciendo que no te sirva de nada
 - ¿Qué error es más común en principiantes?
-
+El error de olvidarme la pulsera
 - ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+Que hay que tener mucho cuidado y montar y atornillar todo perfectamente para evitar futuros fallos
